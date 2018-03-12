@@ -1,0 +1,159 @@
+
+poke.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+medium
+  rotate: false
+  xy: 1, 165
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+easy
+  rotate: false
+  xy: 1, 83
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+hard
+  rotate: false
+  xy: 203, 165
+  size: 150, 80
+  orig: 150, 80
+  offset: 0, 0
+  index: -1
+alakazam
+  rotate: false
+  xy: 153, 63
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+dragon
+  rotate: false
+  xy: 255, 63
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+bulba
+  rotate: false
+  xy: 355, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+gengar
+  rotate: false
+  xy: 437, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+lapras
+  rotate: false
+  xy: 539, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+magmar
+  rotate: false
+  xy: 641, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+snorlax
+  rotate: false
+  xy: 743, 145
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+chansey
+  rotate: false
+  xy: 1, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+char
+  rotate: false
+  xy: 845, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+eevee
+  rotate: false
+  xy: 927, 165
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+electrode
+  rotate: false
+  xy: 845, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+grimer
+  rotate: false
+  xy: 927, 83
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+jiggly
+  rotate: false
+  xy: 357, 63
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+magikarp
+  rotate: false
+  xy: 439, 63
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+meowth
+  rotate: false
+  xy: 521, 63
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+pikachu
+  rotate: false
+  xy: 603, 63
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+psyduck
+  rotate: false
+  xy: 685, 63
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+rattata
+  rotate: false
+  xy: 767, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+squirtle
+  rotate: false
+  xy: 849, 1
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

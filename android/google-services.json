@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237763493657",
+    "firebase_url": "https://poke-throw.firebaseio.com",
+    "project_id": "poke-throw",
+    "storage_bucket": "poke-throw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237763493657:android:76d4c46f9098874c",
+        "android_client_info": {
+          "package_name": "com.pointless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237763493657-t06r1871891nucp7rcndi3il9c5qlign.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pointless",
+            "certificate_hash": "e7e216727239e70c06a58e868b410690f4b5ba50"
+          }
+        },
+        {
+          "client_id": "237763493657-qpanbsshdg38o7b1rs44q1k31v75s0nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBarOjwfLWtFVCaFxYaxJwSvgfH-B5TsL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237763493657-qpanbsshdg38o7b1rs44q1k31v75s0nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

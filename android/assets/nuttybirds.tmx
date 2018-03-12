@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.0.3" orientation="orthogonal" renderorder="right-down" width="60" height="17" tilewidth="32" tileheight="32" nextobjectid="67">
+ <tileset firstgid="1" name="floor" tilewidth="32" tileheight="32" tilecount="10" columns="5">
+  <image source="floor.png" width="160" height="64"/>
+ </tileset>
+ <imagelayer name="Background" offsetx="97" offsety="-2">
+  <image source="back.png" width="1920" height="480"/>
+ </imagelayer>
+ <layer name="Ground" width="60" height="17" offsetx="96" offsety="-1">
+  <data encoding="base64" compression="zlib">
+   eJztzbsKACAIQFF7UPb/P5xLEC4t2dI9cEEXFQEAAAAA/ChZ2VWsemE+3Vu7/x9Zs7pLrRE477s+bgK/TwJr
+  </data>
+ </layer>
+ <objectgroup name="Physics_Floor" offsetx="98" offsety="-3">
+  <object id="15" x="-3" y="480" width="2026" height="64"/>
+ </objectgroup>
+ <objectgroup name="Physics_Buildings" offsetx="98" offsety="-3">
+  <object id="4" x="839" y="351" width="32" height="128"/>
+  <object id="5" x="799" y="319" width="128" height="32"/>
+  <object id="6" x="930" y="318" width="128" height="32"/>
+  <object id="7" x="992" y="352" width="32" height="128"/>
+  <object id="57" x="668" y="319" width="128" height="32"/>
+  <object id="59" x="695" y="352" width="32" height="128"/>
+  <object id="60" x="780" y="188" width="32" height="128"/>
+  <object id="61" x="914" y="189" width="32" height="128"/>
+  <object id="63" x="800" y="153" width="128" height="32"/>
+ </objectgroup>
+ <objectgroup name="Physics_Birds" offsetx="98" offsety="-3">
+  <object id="14" x="886" y="382" width="96" height="96">
+   <ellipse/>
+  </object>
+  <object id="64" x="815" y="221" width="96" height="96">
+   <ellipse/>
+  </object>
+  <object id="66" x="735" y="383" width="96" height="96">
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
